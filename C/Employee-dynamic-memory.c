@@ -14,7 +14,7 @@ int main()
 
     for (int i = 0; i < no; i++)
     {
-        printf("Enter the length of character in ID = ");
+        printf("Enter the th of character in ID = ");
         scanf("%d", &len);
 
         name = (char *)malloc((len + 1) * sizeof(char));

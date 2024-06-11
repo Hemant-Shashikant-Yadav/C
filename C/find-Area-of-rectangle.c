@@ -6,7 +6,7 @@
 
 int main()
 {
-    int Length, Breadth;
+    int th, Breadth;
     
     printf("Enter the Length of rectangle-");
     scanf("%d", &Length);
